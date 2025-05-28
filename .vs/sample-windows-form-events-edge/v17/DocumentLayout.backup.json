@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\madhu\\proof\\openverify\\desktop\\sample-windows-form-events-edge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24ED8E16-9055-4337-B958-BE5F81502AF0}|sample-windows-form-events-edge.csproj|c:\\users\\madhu\\proof\\openverify\\desktop\\sample-windows-form-events-edge\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24ED8E16-9055-4337-B958-BE5F81502AF0}|sample-windows-form-events-edge.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24ED8E16-9055-4337-B958-BE5F81502AF0}|sample-windows-form-events-edge.csproj|c:\\users\\madhu\\proof\\openverify\\desktop\\sample-windows-form-events-edge\\edgeevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24ED8E16-9055-4337-B958-BE5F81502AF0}|sample-windows-form-events-edge.csproj|solutionrelative:edgeevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24ED8E16-9055-4337-B958-BE5F81502AF0}|sample-windows-form-events-edge.csproj|c:\\users\\madhu\\proof\\openverify\\desktop\\sample-windows-form-events-edge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24ED8E16-9055-4337-B958-BE5F81502AF0}|sample-windows-form-events-edge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24ED8E16-9055-4337-B958-BE5F81502AF0}|sample-windows-form-events-edge.csproj|c:\\users\\madhu\\proof\\openverify\\desktop\\sample-windows-form-events-edge\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24ED8E16-9055-4337-B958-BE5F81502AF0}|sample-windows-form-events-edge.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\madhu\\proof\\openverify\\desktop\\sample-windows-form-events-edge\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\madhu\\proof\\openverify\\desktop\\sample-windows-form-events-edge\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:46:47.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\madhu\\proof\\openverify\\desktop\\sample-windows-form-events-edge\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\madhu\\proof\\openverify\\desktop\\sample-windows-form-events-edge\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwFUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:44:47.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\madhu\\proof\\openverify\\desktop\\sample-windows-form-events-edge\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\madhu\\proof\\openverify\\desktop\\sample-windows-form-events-edge\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:44:43.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EdgeEvents.cs",
+              "DocumentMoniker": "C:\\Users\\madhu\\proof\\openverify\\desktop\\sample-windows-form-events-edge\\EdgeEvents.cs",
+              "RelativeDocumentMoniker": "EdgeEvents.cs",
+              "ToolTip": "C:\\Users\\madhu\\proof\\openverify\\desktop\\sample-windows-form-events-edge\\EdgeEvents.cs",
+              "RelativeToolTip": "EdgeEvents.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwC4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T21:41:03.075Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

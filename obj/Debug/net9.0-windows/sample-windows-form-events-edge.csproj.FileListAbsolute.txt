@@ -1,0 +1,16 @@
+C:\Users\madhu\proof\openverify\desktop\sample-windows-form-events-edge\bin\Debug\net9.0-windows\sample-windows-form-events-edge.exe
+C:\Users\madhu\proof\openverify\desktop\sample-windows-form-events-edge\bin\Debug\net9.0-windows\sample-windows-form-events-edge.deps.json
+C:\Users\madhu\proof\openverify\desktop\sample-windows-form-events-edge\bin\Debug\net9.0-windows\sample-windows-form-events-edge.runtimeconfig.json
+C:\Users\madhu\proof\openverify\desktop\sample-windows-form-events-edge\bin\Debug\net9.0-windows\sample-windows-form-events-edge.dll
+C:\Users\madhu\proof\openverify\desktop\sample-windows-form-events-edge\bin\Debug\net9.0-windows\sample-windows-form-events-edge.pdb
+C:\Users\madhu\proof\openverify\desktop\sample-windows-form-events-edge\obj\Debug\net9.0-windows\EdgeUSBEvents.Form1.resources
+C:\Users\madhu\proof\openverify\desktop\sample-windows-form-events-edge\obj\Debug\net9.0-windows\sample-windows-form-events-edge.csproj.GenerateResource.cache
+C:\Users\madhu\proof\openverify\desktop\sample-windows-form-events-edge\obj\Debug\net9.0-windows\sample-windows-form-events-edge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madhu\proof\openverify\desktop\sample-windows-form-events-edge\obj\Debug\net9.0-windows\sample-windows-form-events-edge.AssemblyInfoInputs.cache
+C:\Users\madhu\proof\openverify\desktop\sample-windows-form-events-edge\obj\Debug\net9.0-windows\sample-windows-form-events-edge.AssemblyInfo.cs
+C:\Users\madhu\proof\openverify\desktop\sample-windows-form-events-edge\obj\Debug\net9.0-windows\sample-windows-form-events-edge.csproj.CoreCompileInputs.cache
+C:\Users\madhu\proof\openverify\desktop\sample-windows-form-events-edge\obj\Debug\net9.0-windows\sample-windows-form-events-edge.dll
+C:\Users\madhu\proof\openverify\desktop\sample-windows-form-events-edge\obj\Debug\net9.0-windows\refint\sample-windows-form-events-edge.dll
+C:\Users\madhu\proof\openverify\desktop\sample-windows-form-events-edge\obj\Debug\net9.0-windows\sample-windows-form-events-edge.pdb
+C:\Users\madhu\proof\openverify\desktop\sample-windows-form-events-edge\obj\Debug\net9.0-windows\sample-windows-form-events-edge.genruntimeconfig.cache
+C:\Users\madhu\proof\openverify\desktop\sample-windows-form-events-edge\obj\Debug\net9.0-windows\ref\sample-windows-form-events-edge.dll

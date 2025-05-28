@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "sample-windows-form-events-edge/1.0.0": {
+        "runtime": {
+          "sample-windows-form-events-edge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sample-windows-form-events-edge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
